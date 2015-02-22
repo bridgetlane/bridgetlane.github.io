@@ -1,4 +1,4 @@
-# [mason.gmu.edu/~blane3](http://mason.gmu.edu/~blane3/)
+# [bridgetlane.github.io](http://bridgetlane.github.io)
 My personal website, created by me using Foundation by Zurb and the Sidebar Template by Tony Albanese. Vectors courtesy Freepik.
 
 ## License
