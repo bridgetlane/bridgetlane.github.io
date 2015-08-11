@@ -1,5 +1,5 @@
 /* Site designed by Bridget Lane */
-/* mason.gmu.edu/~blane3 */
+/* bridgetlane.com */
 
 /* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
 /* zurb.com */
