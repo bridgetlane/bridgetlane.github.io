@@ -67,4 +67,10 @@
 		ga('create', 'UA-60024905-1', 'auto');
 		ga('send', 'pageview');
 	</script>
+	<script>
+	var host = "bridgetlane.com"
+	if (window.location.host == host && window.location.protocol != "https:") {
+	  window.location.protocol = "https:"
+	}
+	</script>
 </html>
