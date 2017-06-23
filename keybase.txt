@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/bridgetlane
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bridgetlane.com
+  * I am bridgetlane (https://keybase.io/bridgetlane) on keybase.
+  * I have a public key ASCbswhwqG8VNr3_axp9pLXWMg-r7qBVybaM2rl67mBLlAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01209bb30870a86f1536bdff6b1a7da4b5d6320fabeea055c9b68cdab97aee604b940a",
+            "host": "keybase.io",
+            "kid": "01209bb30870a86f1536bdff6b1a7da4b5d6320fabeea055c9b68cdab97aee604b940a",
+            "uid": "96fef550f83d83cbd5014686d5edd719",
+            "username": "bridgetlane"
+        },
+        "merkle_root": {
+            "ctime": 1498254758,
+            "hash": "9ea23aa0196ac48e9e63fdf6548142b314b8b2e39eb3760a08ee5381281287a3db5bed49a0674915e837cf9b380b3aa2f7ac210579863658955864b6a6153ee2",
+            "hash_meta": "e6d14ea2e2c8ff14f203b55bf869125987c7b9a2ed51277432eb5fdb80d0c88b",
+            "seqno": 1190126
+        },
+        "service": {
+            "hostname": "bridgetlane.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1498254815,
+    "expire_in": 504576000,
+    "prev": "7c1574d5a09a0c16c1eb2149fdaafbb38ccb8fcc6d0ef414dfa9bb64100af779",
+    "seqno": 23,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm7MIcKhvFTa9/2safaS11jIPq+6gVcm2jNq5eu5gS5QKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOWJiMzA4NzBhODZmMTUzNmJkZmY2YjFhN2RhNGI1ZDYzMjBmYWJlZWEwNTVjOWI2OGNkYWI5N2FlZTYwNGI5NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWJiMzA4NzBhODZmMTUzNmJkZmY2YjFhN2RhNGI1ZDYzMjBmYWJlZWEwNTVjOWI2OGNkYWI5N2FlZTYwNGI5NDBhIiwidWlkIjoiOTZmZWY1NTBmODNkODNjYmQ1MDE0Njg2ZDVlZGQ3MTkiLCJ1c2VybmFtZSI6ImJyaWRnZXRsYW5lIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk4MjU0NzU4LCJoYXNoIjoiOWVhMjNhYTAxOTZhYzQ4ZTllNjNmZGY2NTQ4MTQyYjMxNGI4YjJlMzllYjM3NjBhMDhlZTUzODEyODEyODdhM2RiNWJlZDQ5YTA2NzQ5MTVlODM3Y2Y5YjM4MGIzYWEyZjdhYzIxMDU3OTg2MzY1ODk1NTg2NGI2YTYxNTNlZTIiLCJoYXNoX21ldGEiOiJlNmQxNGVhMmUyYzhmZjE0ZjIwM2I1NWJmODY5MTI1OTg3YzdiOWEyZWQ1MTI3NzQzMmViNWZkYjgwZDBjODhiIiwic2Vxbm8iOjExOTAxMjZ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYnJpZGdldGxhbmUuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjQifSwiY3RpbWUiOjE0OTgyNTQ4MTUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiN2MxNTc0ZDVhMDlhMGMxNmMxZWIyMTQ5ZmRhYWZiYjM4Y2NiOGZjYzZkMGVmNDE0ZGZhOWJiNjQxMDBhZjc3OSIsInNlcW5vIjoyMywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBK82bmfDRcROhM67DmbkBeHYtYGVbbFgfRias/ja74s/JuBynb/Lhwc7P7pLYLQVmykaJlsBBjZdkZgKFGbLENqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgrmjrimEAAIQOAOBc6yUt4G5aMhUGSSQB8gu26horn5qjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bridgetlane
+
+==================================================================
